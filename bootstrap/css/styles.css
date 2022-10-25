@@ -248,12 +248,12 @@ body{
 }
 
 .product__price--percent {
-	width: 80px;
-	position: absolute;
-	height: 31px;
-	top: 1px;
-	left: -4px;
-	background: url(/image/hihi.svg) 50% no-repeat;
+    width: 80px;
+    position: absolute;
+    height: 31px;
+    top: 1px;
+    left: -4px;
+    background: url(https://nhiem130303.github.io/nhom-3-tk-web/image/hihi.svg) 50% no-repeat;
 }
 
 .product__price--percent-detail {
